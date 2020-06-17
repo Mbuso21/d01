@@ -1,3 +1,3 @@
 
 
-find . -type f ! -name "*.sh" | cat -e
+find . -type f -name "*.sh" 
